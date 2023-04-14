@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Apple.cpp" />
+    <ClCompile Include="Fruit.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Mixer.cpp" />
     <ClCompile Include="Orange.cpp" />
@@ -135,6 +136,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Apple.h" />
+    <ClInclude Include="Fruit.h" />
     <ClInclude Include="Mixer.h" />
     <ClInclude Include="Orange.h" />
     <ClInclude Include="Pinapple.h" />

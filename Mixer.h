@@ -6,6 +6,7 @@ public:
 	FMixer();
 	~FMixer();
 
-	void Mix();
+	void Mix(class FApple* Resource);
+
 
 };

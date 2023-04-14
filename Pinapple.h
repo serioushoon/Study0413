@@ -3,7 +3,7 @@ class FPinapple
 {
 public:
 	FPinapple();
-	~FPinapple();
+	virtual ~FPinapple();
 
 	void Mix();
 };

@@ -3,7 +3,7 @@ class FOrange
 {
 public:
 	FOrange();
-	~FOrange();
+	virtual ~FOrange();
 
 	void Mix();
 };

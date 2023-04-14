@@ -3,7 +3,7 @@ class FApple
 {
 public:
 	FApple();
-	~FApple();
+	virtual ~FApple();
 
 	void Mix();
 
